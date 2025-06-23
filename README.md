@@ -1,15 +1,16 @@
 Hospital Emergency Room Dashboard (Excel)
+
 This project is a Monthly Emergency Room (ER) Report Dashboard built using Microsoft Excel, aimed at visualizing key metrics related to patient flow, wait times, satisfaction levels, and departmental performance for February.# Hospital-data-dashboard.
 
-Dashboard Highlights
+Dashboard Highlights:
 This Excel dashboard provides an intuitive and insightful look into ER operations. Below are the core metrics and visual elements used:
 
 Key Metrics Tracked
-No. of Patients:
+1. No. of Patients:
 Tracked daily patient count with an area sparkline to identify busy days and spot seasonal trends.
-Average Wait Time:
+2. Average Wait Time:
 Calculated average time patients waited before being seen. Sparkline trends highlight fluctuations and areas for improvement.
-Patient Satisfaction Score:
+3. Patient Satisfaction Score:
 Monitored average daily satisfaction scores to assess service quality. Drops in satisfaction can be correlated with high patient loads or delays.
 
 Charts and Visuals Included
