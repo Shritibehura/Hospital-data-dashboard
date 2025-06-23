@@ -25,6 +25,7 @@ Donut chart comparing the proportion of male vs. female patients.
 Horizontal bar chart displaying how many patients were referred to each department (e.g., General Practice, Cardiology, Neurology, etc.).
 
 Purpose & Impact
+
 This dashboard helps hospital management:
 Monitor ER performance metrics in real time.
 Quickly identify trends or problem areas.
